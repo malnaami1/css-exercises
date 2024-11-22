@@ -1,12 +1,12 @@
 /* Applies to numbers 1, 3, and 5 */
 .banner{
-    background-color: lightpink;
-    font-family: 'Verdana','DejaVu Sans', 'sans-serif';
+    background-color: hsl(0, 72%, 75%);
+    font-family: Verdana,"DejaVu Sans", sans-serif;
 }
 
 /* Applies to number 2 */
 #identification{
-    color: blue;
+    color: #0000ff; 
     font-size: 36px;
 }
 
@@ -17,7 +17,7 @@
 
 /* Applies to number 4 */
 #identification2{
-    background-color: lightgreen;
+    background-color: rgb(104, 231, 113);
     font-size: 24px;
     font-weight: bold;
 }
